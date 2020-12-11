@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+# Welcome to Zeptagon!
 
-You can use the [editor on GitHub](https://github.com/Zeptagon/Zeptagon/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is basically just some random [discord](https://discord.com/app) bot you could use to manage your discord server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For the commands, go below this
 
-### Markdown
+### Commands
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
